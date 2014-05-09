@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.xorion_repo"
+       name="[COLOR orange]XorioN[/COLOR]"
+       version="1.0"
+       provider-name="XorioN">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+          </requires>
+  <extension point="xbmc.python.pluginsource" library="xorion.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Tam O Ani Hatirlarsinya. Artik Neydi,Neredeydi Diye Aramaya Son</summary>
+    <description>[COLOR orange]xbmcTR Team HappyFeets... [COLOR lightyellow]repodan kaldirilmistir. indirirseniz calismaz.[/COLOR]</description>
+        <platform>all</platform>
+  </extension>
+</addon>
+
+</addons>

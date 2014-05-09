@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.xorion_repo"
        name="[COLOR orange]XorioN[/COLOR]"
-       version="1.0"
+       version="1.8"
        provider-name="XorioN">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>

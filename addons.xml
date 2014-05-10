@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.xorion" name="XorioN" version="1.1.21" provider-name="XorioN">
+<addon id="plugin.video.xorion" name="XorioN" version="1.1.31" provider-name="XorioN">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

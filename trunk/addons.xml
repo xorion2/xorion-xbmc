@@ -53,10 +53,10 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install xbmc-Xorion Add-ons </summary>
-		<summary lang="tr">xbmc-Xorion eklentileri yükle</summary>
-		<description lang="en">Video plug-ins for XBMC</description>
+		<summary lang="tr">xbmc-Xorion eklentileri yukle</summary>
+		<description lang="en">Video plugins for XBMC</description>
 		<description lang="tr">XBMC video eklentileri </description>
-		<disclaimer lang="tr">Bu ekelnti telif hakki ile korunan hicbir medyayi yayinlamaz.Link vermez.Tum yayinlar muhtelif web sitelerinden alinmaktadir.</disclaimer>
+		<disclaimer lang="tr">Bu eklenti telif hakki ile korunan hicbir medyayi yayinlamaz.Link vermez.Tum yayinlar muhtelif web sitelerinden alinmaktadir.</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>

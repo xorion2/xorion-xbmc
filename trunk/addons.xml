@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.xorion" name="XorioN" version="2.1" provider-name="XorioN">
+
+<addon id="plugin.video.xorion" name="XorioN" version="2.2" provider-name="XorioN">
+
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -21,7 +23,8 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.xorion_noAdult" name="XorioN-NoAdult" version="2.1" provider-name="XorioN">
+
+<addon id="plugin.video.xorion_noAdult" name="XorioN-NoAdult" version="2.2" provider-name="XorioN">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>

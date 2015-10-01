@@ -38,9 +38,9 @@
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
         <extension point="xbmc.addon.repository" name="Wetek_Xor">
-            <info compressed="false">https://github.com/xorion2/xorion/addons.xml</info>
-            <checksum>https://github.com/xorion2/xorion/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/xorion2/xorion/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/xorion2/xorion-xbmc/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/xorion2/xorion-xbmc/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/xorion2/xorion-xbmc/master/</datadir>
             <hashes>false</hashes>
         </extension>
         <extension point="xbmc.addon.metadata">
